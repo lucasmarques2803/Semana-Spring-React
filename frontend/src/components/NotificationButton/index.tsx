@@ -7,7 +7,6 @@ import { toast } from "react-toastify"
 
 type Props = {
     saleId: number
-
 }
 
 function handleClick(saleId: number) {
